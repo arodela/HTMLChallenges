@@ -1,0 +1,33 @@
+body {
+  background-color: #e2ac7f;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  text-align: center;
+  width: 75%;
+  background-color: #f5f5dc;
+  margin: 0 Auto;
+  border: dashed;
+}
+
+header {
+  border-bottom: dashed;
+}
+
+p {
+  padding: 0 1em;
+}
+
+h4 {
+  font-weight: normal;
+}
+h4::first-letter {
+    font-size: 130%;
+    font-weight: bold;
+}
+
+footer p{
+  font-size: 80%
+}

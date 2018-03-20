@@ -1,0 +1,57 @@
+body {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+table{
+  margin: 0 Auto;
+  border-top: solid #b0a087 1.5em;
+}
+
+
+th.index{
+  vertical-align: top;
+  width: 35%;
+  padding-top: 3em;
+}
+
+h1, h3{
+  text-align: left;
+}
+
+p {
+  font-weight: normal;
+  padding: 0 1em;
+  text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: #b0a087;
+}
+
+main{
+  padding-left: 3em;
+}
+
+/*Nav*/
+nav{
+  text-align: left;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: left;
+
+}
+
+nav li {
+
+}
+
+nav li a {
+    text-decoration: none;
+    color: #b0a087;
+}
+

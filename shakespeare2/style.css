@@ -1,0 +1,33 @@
+body {
+  background-color: #364371;
+  margin: 0;
+  padding: 0;
+}
+
+table{
+  width: 85%;
+  background-color: #5b7fbd;
+  margin: 0 Auto;
+}
+
+th.index{
+  vertical-align: top;
+  background-color: #b0cfff;
+  width: 25%
+}
+
+ul li {
+    text-align: left;
+    list-style-position: inside;
+    margin-left: 3em;
+}
+
+h1, h2 {
+  padding: .5em;
+}
+
+p {
+  font-weight: normal;
+  padding: 0 1em;
+   text-align: center;
+}
